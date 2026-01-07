@@ -1,10 +1,9 @@
 # Hi, I'm Gabriel Lucena 👋
 
 ## 💫 About Me
-- 🔭 I'm currently working as a **Machine Learning Engineer**
-- 🌱 I'm developing my skills in **Machine Learning**, **LLM Engineering** and **Backend Development**
-- 👯 I'm looking to collaborate on projects related to **ML, AI, Backend, or DevOps/MLOps**
-- 💬 Ask me about **Python, Machine Learning, Engineering challenges**
+- 🔭 I'm currently working as a **Technical Product Manager**
+- 🌱 Former Machine Learning Engineer
+- 👯 I'm looking to collaborate on projects related to **ML, AI, Backend, Frontend**
 - 📫 How to reach me: **gablucena98@gmail.com**
 - ⚡ Fun fact: I love reading books and novels, and occasionally enjoy gaming
 
@@ -35,13 +34,14 @@
 <!-- Will be filled over time -->
 
 ## 📚 Education
-- 🎓 Computer Engineering (5th year) - Aeronautics Institute of Technology (ITA)
+- 🎓 Computer Engineering - Aeronautics Institute of Technology (ITA)
 
 ## 💡 Areas of Interest
 - Entrepreneurship & Startups
 - Machine Learning & AI
 - Backend Development
 - Infrastructure (DevOps/MLOps)
+- Product and Operations
 
 ## 🛠️ Skills and Expertise
 
@@ -49,8 +49,6 @@
 - Machine Learning & Data Science
 - Backend Development
 - API Design
-- Cloud Infrastructure
-- Database Management
 
 ### Tools & Environments
 - ML Frameworks (TensorFlow, PyTorch, scikit-learn)
@@ -66,11 +64,18 @@
 - Team Collaboration
 - Time Management
 - Adaptability
+- Leadership
 
-## 🌱 Learning Goals
-- Advanced Machine Learning techniques
-- Backend architecture at scale
-- DevOps best practices
-- Cloud-native development
+## 🚀 What I’m Building
+- AI-first (and non-AI) products with real-world impact
+- Technical foundations that scale teams and systems
+- Product strategy grounded in engineering reality
+- Early-stage initiatives combining AI, education, and data
+
+## 🎯 Current Focus
+- Designing AI-driven products from strategy to production
+- Building scalable AI systems (LLMs, agents, workflows)
+- Technical decision-making at the intersection of product and engineering
+- Leading initiatives across AI, backend, and cloud infrastructure
 ---
 ⭐️ From Gabriel Lucena
