@@ -1,81 +1,79 @@
-# Hi, I'm Gabriel Lucena 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=D97757&center=true&vCenter=true&width=600&lines=Building+AI+products+in+education;Product+Lead+%C2%B7+ML+Engineer;Entrepreneur" alt="Typing SVG" />
+</p>
 
-## 💫 About Me
-- 🔭 I'm currently working as a **Technical Product Manager**
-- 🌱 Former Machine Learning Engineer
-- 👯 I'm looking to collaborate on projects related to **ML, AI, Backend, Frontend**
-- 📫 How to reach me: **gablucena98@gmail.com**
-- ⚡ Fun fact: I love reading books and novels, and occasionally enjoy gaming
+<h1 align="center">Gabriel Lucena</h1>
 
-## 🌐 Social Media
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lucena-nb/)
+<p align="center">
+  <i>Computer Engineer — Instituto Tecnológico de Aeronáutica (ITA)</i>
+</p>
 
-## 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%232C8EBB.svg?style=for-the-badge&logo=LangChain&logoColor=white)
-![DSPy](https://img.shields.io/badge/DSPy-%23F24E1E.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-lucena-nb/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:gablucena98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-## 🚀 Featured Projects
-<!-- Will be filled over time -->
-
-## 📚 Education
-- 🎓 Computer Engineering - Aeronautics Institute of Technology (ITA)
-
-## 💡 Areas of Interest
-- Entrepreneurship & Startups
-- Machine Learning & AI
-- Backend Development
-- Infrastructure (DevOps/MLOps)
-- Product and Operations
-
-## 🛠️ Skills and Expertise
-
-### Programming & Frameworks
-- Machine Learning & Data Science
-- Backend Development
-- API Design
-
-### Tools & Environments
-- ML Frameworks (TensorFlow, PyTorch, scikit-learn)
-- LLM Tools (LangChain, DSPy)
-- Docker & Containerization
-- Google Cloud Platform
-- Version Control (Git)
-- SQL & NoSQL Databases
-
-### Soft Skills
-- Problem Solving
-- Technical Communication
-- Team Collaboration
-- Time Management
-- Adaptability
-- Leadership
-
-## 🚀 What I’m Building
-- AI-first (and non-AI) products with real-world impact
-- Technical foundations that scale teams and systems
-- Product strategy grounded in engineering reality
-- Early-stage initiatives combining AI, education, and data
-
-## 🎯 Current Focus
-- Designing AI-driven products from strategy to production
-- Building scalable AI systems (LLMs, agents, workflows)
-- Technical decision-making at the intersection of product and engineering
-- Leading initiatives across AI, backend, and cloud infrastructure
 ---
-⭐️ From Gabriel Lucena
+
+### What I work on
+
+- AI-driven products, from strategy to production
+- LLM-based agent systems: orchestration, evals, deployment
+- Technical decisions at the intersection of product and engineering
+
+---
+
+### Tech Stack
+
+<p align="center"><b>Languages & Infrastructure</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
+
+<p align="center"><b>Machine Learning & AI</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic_AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Agent_SDK-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSPy-FF6B35?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Langfuse-0A0A0A?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+<p align="center"><b>AI-Native Development</b></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+<p align="center"><i>Spec-driven workflows · agent orchestration · end-to-end delivery</i></p>
+
+---
+
+### GitHub
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+</p>
